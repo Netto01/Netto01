@@ -6,7 +6,6 @@
 
 Psicólogo pela ulbra Palmas, mestrando em Desenvolvimento Regional pela UFT e entusiasta do mundo da progamação.
 
-.
 <br><br>
 
 <div align="left">
