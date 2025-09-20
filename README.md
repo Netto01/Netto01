@@ -1,16 +1,31 @@
-## Hi there 👋
+### 👋 Olá, eu sou o Arlindo
 
-<!--
-**Netto01/Netto01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Psicólogo e mestrando em Desenvolvimento Regional, atualmente explorando o universo da programação. Meu objetivo é usar a tecnologia como uma ponte para entender dados sociais e criar ferramentas com impacto positivo.
 
-Here are some ideas to get you started:
+* 🧠 **Formação:** Psicologia e Mestrado em Desenvolvimento Regional.
+* 💻 **Minha Missão:** Unir as ciências sociais e o código para gerar insights e soluções.
+* 🌱 **Estou aprendendo:** Principalmente **Python** para análise de dados e automação de tarefas.
+* 📍 **Localização:** Palmas, Tocantins.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Ferramentas que estou explorando
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📫 Onde me encontrar
+
+<a href="mailto:arlindo.netto@rede.ulbra.br"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.instagram.com/neto.darllin/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+
+---
+
+<p align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Netto01&show_icons=true&theme=nord&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+  <br/>
+  <img width="400"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Netto01&layout=compact&langs_count=7&theme=nord" alt="Linguagens mais usadas"/>
+</p>
