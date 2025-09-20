@@ -38,7 +38,7 @@ Psicólogo pela ulbra Palmas, mestrando em Desenvolvimento Regional pela UFT e e
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Netto01&label=VISITANTES_DO_PERFIL&color=0088cc&style=flat-square" alt="Contador de Visitas no Perfil"/>
 </p>
----
+
 <p align="center">
   <img src="https://github.com/Netto01/Netto01/blob/output/github-contribution-grid-snake.svg" alt="Pato andando pelo quadrado de contribuições" style="max-width: 90%; height: auto;">
 </p>
