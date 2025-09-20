@@ -9,14 +9,6 @@ Psicólogo e mestrando em Desenvolvimento Regional, atualmente explorando o univ
 
 ---
 
-### Ferramentas que estou explorando
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
 ### 📫 Onde me encontrar
 
 <a href="mailto:arlindo.netto@rede.ulbra.br"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
