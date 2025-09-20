@@ -2,11 +2,11 @@
   <tr>
     <td valign="top" width="65%">
 
-### 👋 Olá, eu sou o Arlindo
+### 👋 Olá, eu sou o Arlindo, mas podem me chamar de Neto.
 
-Psicólogo, mestrando em Desenvolvimento Regional e entusiasta da aplicação de tecnologia para resolver problemas sociais.
+Psicólogo pela ulbra Palmas, mestrando em Desenvolvimento Regional pela UFT e entusiasta do mundo da progamação.
 
-Minha paixão é cruzar a fronteira entre as ciências humanas e o código, utilizando a análise de dados para gerar insights sobre comportamento e dinâmicas regionais, especialmente aqui em Tocantins.
+.
 <br><br>
 
 <div align="left">
