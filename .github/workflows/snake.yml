@@ -10,15 +10,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+
+      # A mudança está aqui: trocamos o 'outputs' por 'svg_out_path'
       - uses: Platane/snk@master
         id: snake-gif
         with:
           github_user_name: Netto01
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          # Usamos o parâmetro correto para o arquivo de saída SVG
+          svg_out_path: dist/github-contribution-grid-snake.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - uses: crazy-max/ghaction-github-pages@v2
         with:
           target_branch: output
